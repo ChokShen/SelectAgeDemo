@@ -18,7 +18,7 @@
 		99107F8E2618A583009FB95B /* AgeScaleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99107F8D2618A583009FB95B /* AgeScaleView.swift */; };
 		99107F932618A68F009FB95B /* BubbleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99107F922618A68F009FB95B /* BubbleView.swift */; };
 		99107FCA2618CB3A009FB95B /* Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99107FC92618CB3A009FB95B /* Screen.swift */; };
-		99107FDF2619B62B009FB95B /* SelectAgeDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 99107FDE2619B62B009FB95B /* SelectAgeDemo.gif */; };
+		99107FE72619B9A5009FB95B /* SelectAgeDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 99107FE62619B9A5009FB95B /* SelectAgeDemo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,7 +56,7 @@
 		99107F8D2618A583009FB95B /* AgeScaleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeScaleView.swift; sourceTree = "<group>"; };
 		99107F922618A68F009FB95B /* BubbleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleView.swift; sourceTree = "<group>"; };
 		99107FC92618CB3A009FB95B /* Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen.swift; sourceTree = "<group>"; };
-		99107FDE2619B62B009FB95B /* SelectAgeDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SelectAgeDemo.gif; sourceTree = "<group>"; };
+		99107FE62619B9A5009FB95B /* SelectAgeDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SelectAgeDemo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,7 +143,7 @@
 		99107FDD2619B311009FB95B /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				99107FDE2619B62B009FB95B /* SelectAgeDemo.gif */,
+				99107FE62619B9A5009FB95B /* SelectAgeDemo.gif */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -253,7 +253,7 @@
 			files = (
 				99107F5A26187F08009FB95B /* LaunchScreen.storyboard in Resources */,
 				99107F5726187F08009FB95B /* Assets.xcassets in Resources */,
-				99107FDF2619B62B009FB95B /* SelectAgeDemo.gif in Resources */,
+				99107FE72619B9A5009FB95B /* SelectAgeDemo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
